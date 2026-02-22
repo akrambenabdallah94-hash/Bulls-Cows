@@ -1,0 +1,42 @@
+24a92be test unitaire de la fonction nombre_bulls_cows(confuguration1, configuration2) finit
+49851eb Test unitaire de la fonction nombre_communs reussie
+aca33f9 Ajout des testes unitaires de la fonction nombres_commun(config1, config2)
+02b19ff erreur de branche
+1f09d81 erreur de ma part je n'ai pas fait mes devloppement des test histo dans la branche test_histo
+0ea4563 erreur sur la fonction test_histo_m_et_n tous les cas n'était pas traiter ajout du cas m == n dans la fonction et test réussi
+b64994d Test finale de la fonction test_histo_m_et_n(self)
+7210717 Test finale de la fonction test_histo_m_et_n(self)
+fb0c2c4 devloppement du test_histo_m_et_n
+51c3976 Ajout de la fonction test_histo(self) avec le test unitaire de histo([3, 6, 3, 1]).
+c0d5de8 On ignore les fichier texte et fin du dev et du test de combinaison_secrete_test(self, n)
+d0be41b AVENCEMENT DE LA CLASS TestPartiBC dans le fichier partieBC_test.py
+63e228b Ajout de la class testdans le fichier partieBC_test.py
+917866f Reprise de la conceptiion du partieBC_test.py à zero
+de43c26 Début du TP2 ajout du fichier texte gitlog.txt
+d8c0793 ajout de text dans nombre_bulls_cows.txt
+2033b67 [Test] Dernier commit pour la fonction partie_joueur_humain(nbmax_essai)
+c6c986b correction de la fonction partie_joueur_humain(nbmax_essai)
+c495b8e [test] + ajout dans document test
+9cfec1b La branche dev à été fusionner avec la branche nb_bulls_cows et application d'une meilleur sémantique
+8a207ee [test] final fonction nombre_bulls_cows(config1, config2)
+8882b3f devloppment de la fonction nombre_bulls_cows(config1, config2)
+ac1eccb Ajout d'un fichier texte pour traiter les éventuelle erreur
+1759def implémentation de la fonction nombre_bulls_cows()
+b292d44  [test] Final fonctionnombre_communs()
+74c2773 Ajout de la fonction nombre_communs()
+ad5b276 [test] final histo(configration)
+bb773f0 Ajout de la fonction histo(configuration)
+0474db1 Ajout des tests précédent
+d9ede09 Suppression du dossier__pycache__ du suivi de Git
+f5fac7d [Tests] Fonction saisie_clavier()
+39109b4  mis à jour du pycache et le code fonctionne -\_/- git add __pycache__/
+96aefe6 Ajout des modifcation de ma branche vérifier dans le fichier partieBC.py
+014ddd3 Ajout des modifcation de ma branche vérifier dans le fichier partieBC_test.py
+880e455 Résolution du conflit (nb_secret supprimer mais fusionnée)
+76dbb78 Fin du dévloppement de combinaison_secrete
+f180ebc Cinquième commit : modification dans le fichier partieBC_test.py (ajout du print pour voir le résultat de la fonction combinaison_secrete()
+5925f79 quatrième commit : ajout dasn partieBC.py de la fonction combinaison_secrete ()
+574d33a troisième commit : ajout de l'import du fichier partieBC.py dans partieBC_test.py
+c697a6c troisième commit : modifiaction (ajout de la fonction combinaison_secrete) du fichier partieBC_test.py
+593ba68 deuxième commit : ajout du fichier partieBC_test.py
+7c6d38f premier commit : ajout du fichier partieBC.py
