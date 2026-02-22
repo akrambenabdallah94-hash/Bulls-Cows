@@ -29,7 +29,7 @@ Utiliser visual studio code:
 
 - Vous allez serlectionner un terminal pour puvoir éxécuter le fichier 
 
-- Vous pouvez maintenat y jouer avec les instyruction de la console d'éxecution !!!
+- Vous pouvez maintenat y jouer avec les instruction de la console d'éxecution !!!
 
 ## Configuration
 Pas de configuration
@@ -55,4 +55,5 @@ gitbash user.name : ak94u
 gitbash user.email : akram.ben-abdallah@etu.u-pec.fr
 
 ## Licence
+
 https://iut.u-pec.fr/
